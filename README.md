@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Github repository**
 
-- 💬 Ask me about **SQL, SSRS, Power BI, ADF and Synapse Analyticstics**
+- 💬 Ask me about **SQL, SSRS, Power BI, ADF and Synapse Analytics**
 
 - 📫 How to reach me **micolodian@hotmail.com**
 
